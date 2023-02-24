@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="254adcad-5396-4950-8e91-a65791d56d82" name="Changes" comment="week 1 lecture one contents added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOpsp23/week01/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOpsp23/week01/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOpsp23/week01_C/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOpsp23/week01_C/Demo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="moduleName" value="OOpsp23" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -36,6 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/shahid/Desktop/src/lecture02_c",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,13 +65,39 @@
       <recent name="$USER_HOME$/Desktop/src/week01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.week01_C.Demo">
+  <component name="RunManager" selected="Application.lecture02_c.Demo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week01.Demo" />
       <module name="OOpsp23" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week01_C.RectangleTest" />
+      <module name="OOpsp23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week01_C.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lecture02_c.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture02_c.Demo" />
+      <module name="OOpsp23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture02_c.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,6 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lecture02_c.Demo" />
+        <item itemvalue="Application.RectangleTest" />
         <item itemvalue="Application.week01_C.Demo" />
         <item itemvalue="Application.Demo" />
       </list>
@@ -100,8 +141,16 @@
       <workItem from="1677048466248" duration="3890000" />
       <workItem from="1677059219965" duration="664000" />
       <workItem from="1677060073825" duration="5322000" />
-      <workItem from="1677130553205" duration="262000" />
+      <workItem from="1677130553205" duration="11804000" />
     </task>
+    <task id="LOCAL-00001" summary="week 1 lecture one contents added">
+      <created>1677130857041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677130857043</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
