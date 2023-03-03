@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-59.5" y="-15.5">week01_C.Student</node>
+    <node x="-45.5" y="40.5">week01_C.Date</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="week01_C.Student" target="week01_C.Date" relationship="TO_ONE">
+      <point x="0.0" y="15.5" />
+      <point x="0.0" y="-15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="true" x="10.0" y="70.0" />
+  <SelectedNodes>
+    <node>week01_C.Date</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
