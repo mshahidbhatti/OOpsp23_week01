@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="254adcad-5396-4950-8e91-a65791d56d82" name="Changes" comment="week 2 lecture 2 one contents added">
+    <list default="true" id="254adcad-5396-4950-8e91-a65791d56d82" name="Changes" comment="week 2 lecture 2 _c one contents added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOpsp23/weekend/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOpsp23/weekend/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOpsp23/weekend/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOpsp23/weekend/Product.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +72,7 @@
       <recent name="$USER_HOME$/Desktop/src/week01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.Week03_D.Demo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="weekend.Demo" />
       <module name="OOpsp23" />
@@ -110,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week02_C.StaticTest" />
+    <configuration name="Week03_D.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week03_D.Demo" />
       <module name="OOpsp23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week02_C.*" />
+          <option name="PATTERN" value="Week03_D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Week03_D.Demo" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.week01_C.StudentDemo" />
         <item itemvalue="Application.PCDemo" />
         <item itemvalue="Application.PersonTest" />
-        <item itemvalue="Application.StaticTest" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +165,7 @@
       <workItem from="1677130553205" duration="12148000" />
       <workItem from="1677477659467" duration="3082000" />
       <workItem from="1677653218730" duration="24335000" />
-      <workItem from="1677841646035" duration="4319000" />
+      <workItem from="1677841646035" duration="9048000" />
     </task>
     <task id="LOCAL-00001" summary="week 1 lecture one contents added">
       <created>1677130857041</created>
@@ -193,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677735425719</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="week 2 lecture 2 _c one contents added">
+      <created>1677846043809</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677846043809</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +223,8 @@
     <MESSAGE value="week 1 lecture one contents added" />
     <MESSAGE value="week 1 lecture 2 one contents added" />
     <MESSAGE value="week 2 lecture 2 one contents added" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 2 lecture 2 one contents added" />
+    <MESSAGE value="week 2 lecture 2 _c one contents added" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 2 lecture 2 _c one contents added" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
