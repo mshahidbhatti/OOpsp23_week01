@@ -1,0 +1,12 @@
+    Create a Java project in your IDE (Integrated Development Environment) of choice.
+    Create a Plot class with private fields for address, plotNumber, owner, and type.
+    Create a constructor that initializes these fields with the passed parameters.
+    Create get methods for each field that return their corresponding values.
+    Override the toString() method to return a string representation of the Plot object.
+    Create a Person class with private fields for firstName, middleName, lastName, dateOfBirth, and fatherName.
+    Create a constructor that initializes these fields with the passed parameters.
+    Create get methods for each field that return their corresponding values.
+    Override the toString() method to return a string representation of the Person object.
+    Create an enumeration PlotType for the types of plots.
+    In your main method, create some Person objects and Plot objects, passing the necessary information to their constructors.
+    Call the toString() method on each Plot object to display their information.

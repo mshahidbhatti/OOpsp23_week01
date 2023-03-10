@@ -1,0 +1,30 @@
+Title: Creating a Class for a Music Library
+
+Objective: In this activity, students will create a MusicLibrary class in Java that uses arrays, composition and encapsulation, equals, clone, and constructor overloading.
+
+Instructions:
+
+Begin by explaining to the students that they will be creating a class for a music library. The class should have the following attributes: a name, an array of Song objects, and an integer to keep track of the number of songs in the library.
+
+Ask the students to create a Song class with the following attributes: a title, an artist, an album, and a length in seconds. The class should also have a constructor that takes in these attributes as arguments.
+
+Next, ask the students to create a constructor for the MusicLibrary class that takes in a name as an argument and initializes the array of Song objects to an empty array with a size of 10.
+
+Ask the students to create a method called addSong that takes in a Song object as an argument and adds it to the array. If the array is full, the method should resize the array by creating a new array with double the size of the original and copying the elements over.
+
+Ask the students to create a method called removeSong that takes in a Song object as an argument and removes it from the array. The method should shift all the elements in the array after the removed element to the left by one position.
+
+Ask the students to create a method called getSong that takes in an index as an argument and returns the Song object at that index.
+
+Ask the students to create a method called getNumberOfSongs that returns the number of songs in the library.
+
+Ask the students to override the equals method in the Song class so that it compares two Song objects based on their title, artist, album, and length.
+
+Ask the students to override the clone method in the Song class so that it creates a new Song object with the same attributes as the original.
+
+Finally, ask the students to overload the constructor in the Song class so that it can be called with no arguments, in which case it initializes all the attributes to default values.
+
+Assessment:
+
+Ask the students to test their MusicLibrary class by creating a few Song objects and adding them to the library using the addSong method. Then, ask them to test the removeSong, getSong, and getNumberOfSongs methods to make sure they work as expected. Finally, ask them to test the equals and clone methods in the Song class.
+

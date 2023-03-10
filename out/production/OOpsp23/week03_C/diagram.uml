@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-89.5" y="-89.0">week03_C.Person</node>
+    <node x="114.0" y="392.5">week03_C.Main</node>
+    <node x="-94.0" y="525.0">week03_C.Address</node>
+    <node x="107.0" y="-53.0">week03_C.PlotType</node>
+    <node x="72.5" y="163.0">week03_C.Plot</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="week03_C.Main" target="week03_C.Address" relationship="CREATE">
+      <point x="0.0" y="15.5" />
+      <point x="160.0" y="599.0" />
+      <point x="94.0" y="-15.0" />
+    </edge>
+    <edge source="week03_C.Main" target="week03_C.Person" relationship="CREATE">
+      <point x="-46.0" y="0.0" />
+      <point x="0.0" y="408.0" />
+      <point x="0.0" y="77.0" />
+    </edge>
+    <edge source="week03_C.Plot" target="week03_C.Person" relationship="TO_ONE">
+      <point x="-78.0" y="-65.0" />
+      <point x="82.0" y="77.0" />
+    </edge>
+    <edge source="week03_C.Main" target="week03_C.Plot" relationship="CREATE">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="65.0" />
+    </edge>
+    <edge source="week03_C.Plot" target="week03_C.Address" relationship="TO_ONE">
+      <point x="63.5" y="65.0" />
+      <point x="223.5" y="614.0" />
+      <point x="94.0" y="0.0" />
+    </edge>
+    <edge source="week03_C.Plot" target="week03_C.PlotType" relationship="TO_ONE">
+      <point x="20.0" y="-65.0" />
+      <point x="0.0" y="41.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="0.911504424778761" showDependencies="true" x="198.0" y="193.5" />
+  <SelectedNodes>
+    <node>week03_C.Main</node>
+    <node>week03_C.Person</node>
+    <node>week03_C.Plot</node>
+    <node>week03_C.PlotType</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

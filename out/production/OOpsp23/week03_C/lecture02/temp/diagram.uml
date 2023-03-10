@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-44.5" y="-16.0">week03_C.lecture02.Game</node>
+    <node x="-21.0" y="135.5">week03_C.lecture02.Deck</node>
+    <node x="-40.0" y="55.5">week03_C.lecture02.Card</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="false" x="22.5" y="90.0" />
+  <SelectedNodes>
+    <node>week03_C.lecture02.Game</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
